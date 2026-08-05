@@ -1,0 +1,12 @@
+{
+  "model_type": "linear_regression",
+  "version": 1,
+  "feature_order": ["feature_1", "feature_2"],
+  "coefficients": [3.0, -2.0],
+  "intercept": 5.0,
+  "prediction_formula": "target = 3.0 * feature_1 - 2.0 * feature_2 + 5.0",
+  "training_data": "data/linear_relationship_sample.csv",
+  "license": "MIT",
+  "intended_use": "Educational regression examples, smoke tests, and cross-language model loading demonstrations",
+  "limitations": "Deterministic demonstration model; not intended for real-world or high-stakes decisions"
+}
