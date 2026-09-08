@@ -1,0 +1,10 @@
+{
+  "ownerSlug": "yhay81",
+  "title": "API Created Transparent Linear Model",
+  "slug": "api-created-transparent-linear-model",
+  "subtitle": "Auditable coefficients for a deterministic educational regression example",
+  "isPrivate": false,
+  "description": "# Model Summary\n\nA transparent linear model created through the Kaggle API for reproducible educational examples.\n\n# Model Characteristics\n\nThe model stores an intercept and one slope in human-readable JSON.\n\n# Data Overview\n\nIt matches deterministic, synthetic, non-personal regression data.\n\n# Evaluation Results\n\nThe coefficients reproduce every target row exactly.",
+  "publishTime": "",
+  "provenanceSources": "Generated from the documented deterministic relationship target = 3.5 + 2.25 * x."
+}

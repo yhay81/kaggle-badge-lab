@@ -1,0 +1,16 @@
+{
+  "id": "yhay81/smartphone-addiction-api-python-baseline",
+  "title": "Smartphone Addiction - API Python Baseline",
+  "code_file": "smartphone_addiction_baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "machine_shape": "",
+  "dataset_sources": [],
+  "competition_sources": ["playground-series-s6e8"],
+  "kernel_sources": [],
+  "model_sources": []
+}

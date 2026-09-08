@@ -1,0 +1,16 @@
+{
+  "id": "yhay81/api-created-reproducible-regression-check",
+  "title": "API Created Reproducible Regression Check",
+  "code_file": "api_created_regression_check.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "false",
+  "machine_shape": "",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

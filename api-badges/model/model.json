@@ -1,0 +1,15 @@
+{
+  "model_type": "linear_regression",
+  "version": 1,
+  "formula": "prediction = intercept + slope * x",
+  "features": ["x"],
+  "intercept": 3.5,
+  "coefficients": {
+    "x": 2.25
+  },
+  "validation": {
+    "dataset": "deterministic synthetic regression data",
+    "rows": 12,
+    "max_absolute_error": 0.0
+  }
+}
